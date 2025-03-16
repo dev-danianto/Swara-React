@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif; /* Apply Inter globally */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
